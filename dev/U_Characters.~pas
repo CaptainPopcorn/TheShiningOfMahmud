@@ -1,0 +1,17 @@
+unit U_Characters;
+
+interface
+
+uses Types;
+
+type TCharacter = class
+private
+  Fpos: TPoint;
+  procedure SetPos(NewPos: TPoint);
+public
+  property Pos: TPoint write SetPos read Fpos;
+
+
+implementation
+
+end.

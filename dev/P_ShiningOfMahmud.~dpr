@@ -2,8 +2,7 @@ program P_ShiningOfMahmud;
 
 uses
   Forms,
-  U_Main in 'U_Main.pas' {Form1},
-  U_Characters in 'U_Characters.pas';
+  U_Main in 'U_Main.pas' {Form1};
 
 {$R *.RES}
 

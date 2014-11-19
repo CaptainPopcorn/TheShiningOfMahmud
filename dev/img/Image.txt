@@ -1,0 +1,2 @@
+largeur : 28px
+hauteur : 31px
